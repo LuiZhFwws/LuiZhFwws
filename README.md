@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuiZhFwws
-- iniciando uma correira focada em back end 
+- iniciando uma carreira focada em back end 
 - jovem de 18 anos morando no brasil 
 - cursando analise e desenvolvimento de sistemas e apaixonado em matematica e codigos 
 
